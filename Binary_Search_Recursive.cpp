@@ -25,7 +25,7 @@ int main() {
 	int arr[] = { 1, 3, 5, 7, 9 };
 	int length = sizeof(arr) / sizeof(int);
 	int idx;
-	idx = bresearch(arr, arr[0], arr[length - 1], 7);
+	idx = bresearch(arr, 0, length - 1, 7);
 
 	if (idx == -1) {
 		cout << "Fail to search!" << endl;

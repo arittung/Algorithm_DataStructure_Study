@@ -19,8 +19,9 @@ int bitsearch(int arr[], int len, int target) {
 				first = mid + 1;
 			}
 		}
-		return -1;
+		
 	}
+	return -1;
 }
 
 int main() {

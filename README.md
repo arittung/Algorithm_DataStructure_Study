@@ -82,6 +82,7 @@
 > - Double-Ended Queue<br>
 > - 양쪽에서 연산이 가능한 큐<br>
 > <img src="https://user-images.githubusercontent.com/53934639/116235281-9fa21800-a798-11eb-9c7c-ecce17562b31.PNG" width="400px"><br>
+> <img src="https://user-images.githubusercontent.com/53934639/116236075-92395d80-a799-11eb-97d8-b94b4143f30d.PNG" width="400px"><br><br>
 > ### 연산<br>
 > > 1. 삽입 연산<br>
 > > > - void addRear(int n);  // 큐 맨 뒤에 데이터를 추가<br>

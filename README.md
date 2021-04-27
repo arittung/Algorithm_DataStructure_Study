@@ -62,7 +62,7 @@
 > - 선입 선출(FIFO) <br>
 > <img src="https://user-images.githubusercontent.com/53934639/116229189-28b55100-a791-11eb-8478-869af6402119.PNG" width="400px"><br><br>
 > ### 선형 큐 <br>
-> > - 배열을 사용한 선형 큐
+> > - 배열을 사용한 선형 큐<br>
 > ><img src="https://user-images.githubusercontent.com/53934639/116229921-fd7f3180-a791-11eb-9c1d-fd183a2558ec.PNG" width="400px"><br><br>
 > ### 원형 큐 <br>
 > > <img src="https://user-images.githubusercontent.com/53934639/116231658-20124a00-a794-11eb-9f70-320aba61c493.PNG" width="500px"><br><br>
@@ -74,7 +74,7 @@
 > > 3. 기타 연산<br>
 > > > - bool isEmpty();  // 큐가 비었는지 확인<br>
 > > > - bool isFull();  // 큐가 꽉 찼는지 확인<br>
-> > > - int peek(); // 조회 연산<br>
+> > > - int peek(); // 맨 앞의 데이터 <br>
 <br><br><br>
 
 

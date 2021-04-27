@@ -43,8 +43,8 @@
 
 ## Stack<br>
 > - 가장 나중에 들어온 데이터가 가장 먼저 나가는 자료형<br>
-> - 후입선출(LIFO)<br>
-> <img src="https://user-images.githubusercontent.com/53934639/116227582-44b7f300-a78f-11eb-80c6-c8eba8a604d9.PNG" height="300px"><br>
+> - 후입 선출(LIFO)<br>
+> <img src="https://user-images.githubusercontent.com/53934639/116227582-44b7f300-a78f-11eb-80c6-c8eba8a604d9.PNG" height="300px"><br><br>
 > ### 연산<br>
 > > 1. 삽입 연산<br>
 > > > - void push(int e); // 스택에 요소 추가<br>
@@ -55,3 +55,26 @@
 > > > - bool isFull();  // 스택이 가득 차있는지 확인<br>
 > > > - int peek(); // 맨 위의 요소 출력<br>
 <br><br><br>
+
+
+## Queue <br>
+> - 가장 먼저 들어온 데이터가 가장 먼저 나가는 <br>
+> - 선입 선출(FIFO) <br>
+> <img src="https://user-images.githubusercontent.com/53934639/116229189-28b55100-a791-11eb-8478-869af6402119.PNG" width="400px"><br><br>
+> ### 선형 큐 <br>
+> > - 배열을 사용한 선형 큐
+> ><img src="https://user-images.githubusercontent.com/53934639/116229921-fd7f3180-a791-11eb-9c1d-fd183a2558ec.PNG" width="400px"><br><br>
+> ### 원형 큐 <br>
+> > <img src="https://user-images.githubusercontent.com/53934639/116231658-20124a00-a794-11eb-9f70-320aba61c493.PNG" width="500px"><br><br>
+> ### 연산<br>
+> > 1. 삽입 연산<br>
+> > > - void enqueue(int val);  // 큐 맨 뒤에 데이터를 추가<br>
+> > 2. 삭제 연산<br>
+> > > - int dequeue();  // 큐 맨 앞에서 데이터를 꺼내고 꺼낸 값 리턴<br>
+> > 3. 기타 연산<br>
+> > > - bool isEmpty();  // 큐가 비었는지 확인<br>
+> > > - bool isFull();  // 큐가 꽉 찼는지 확인<br>
+> > > - int peek(); // 조회 연산<br>
+<br><br><br>
+
+

@@ -20,7 +20,7 @@
 > > 2. 원형 연결 리스트(circular linked list)<br>
 > > <img src = "https://user-images.githubusercontent.com/53934639/116223979-0caeb100-a78b-11eb-9407-3062873a640e.PNG" width="500px">
 > > 3. 이중 연결 리스트(double linked list)<br>
-> > ![이중 연결 리스트](https://user-images.githubusercontent.com/53934639/116224047-23ed9e80-a78b-11eb-823f-b542e496dd64.PNG)
+> > <img src ="https://user-images.githubusercontent.com/53934639/116224047-23ed9e80-a78b-11eb-823f-b542e496dd64.PNG" width="500px">
 <br><br>
 
 > - 연산<br>

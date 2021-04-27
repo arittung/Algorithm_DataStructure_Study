@@ -38,7 +38,7 @@
 > > > - int size(); // 연결리스트의 총 길이를 리턴<br>
 > > > - void display_contents();  // 연결리스트의 현재 구조를 보여줌<br>
 > > > - int search_value(int n);  // 연결릴스트에서 원하는 값을 찾아서 그 값의 인덱스를 리턴<br>
-<br><br><br>
+<br><br><br><br>
 
 
 ## Stack<br>
@@ -54,7 +54,7 @@
 > > > - bool isEmpty(); // 스택이 비어있는지 확인<br>
 > > > - bool isFull();  // 스택이 가득 차있는지 확인<br>
 > > > - int peek(); // 맨 위의 요소 출력<br>
-<br><br><br>
+<br><br><br><br>
 
 
 ## Queue <br>
@@ -74,7 +74,24 @@
 > > 3. 기타 연산<br>
 > > > - bool isEmpty();  // 큐가 비었는지 확인<br>
 > > > - bool isFull();  // 큐가 꽉 찼는지 확인<br>
-> > > - int peek(); // 맨 앞의 데이터 <br>
-<br><br><br>
+> > > - int peek(); // 맨 앞의 데이터 리턴<br>
+<br><br><br><br>
 
 
+## Deque <br>
+> - Double-Ended Queue<br>
+> - 양쪽에서 연산이 가능한 큐<br>
+> <img src="https://user-images.githubusercontent.com/53934639/116235281-9fa21800-a798-11eb-9c7c-ecce17562b31.PNG" width="400px"><br>
+> ### 연산<br>
+> > 1. 삽입 연산<br>
+> > > - void addRear(int n);  // 큐 맨 뒤에 데이터를 추가<br>
+> > > - void addFront(int n); // 큐 맨 앞에 데이터를 추가<br>
+> > 2. 삭제 연산<br>
+> > > - int deleteFront();  // 큐 맨 앞에서 데이터를 꺼내고 꺼낸 값 리턴<br>
+> > > - int deleteRear(); // 큐 맨 뒤에서 데이터를 꺼내고 꺼낸 값 리턴<br>
+> > 3. 기타 연산<br>
+> > > - bool isEmpty();  // 큐가 비었는지 확인<br>
+> > > - bool isFull();  // 큐가 꽉 찼는지 확인<br>
+> > > - int getFront(); // 맨 앞의 데이터 리턴<br>
+> > > - int getRear();  // 맨 뒤 요소를 삭제하지 않고 리턴<br>
+<br><br><br><br>

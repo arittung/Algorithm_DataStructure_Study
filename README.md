@@ -1,5 +1,13 @@
 # 자료구조
 
-> - Single linked List<br>
-> - Stack<br>
+## linked List<br>
+> - 장점
+> > 1. 장점
+> > > -  노드를 추가, 삭제 용이.
+> > > - 불연속적인 메모리 공간에 저장 가능.
+> > > - 크기를 가변적으로 쓸 수 있음.
+> - 종류
+> > 1. 단순(단방향) 연결 리스트(singly linked list)
+> > 
+## Stack<br>
 

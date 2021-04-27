@@ -44,7 +44,7 @@
 ## Stack<br>
 > 가장 나중에 들어온 데이터가 가장 먼저 나가는 자료형<br>
 > 후입선출(LIFO)<br>
-> <img src="https://user-images.githubusercontent.com/53934639/116227582-44b7f300-a78f-11eb-80c6-c8eba8a604d9.PNG", height="300px"><br>
+> <img src="https://user-images.githubusercontent.com/53934639/116227582-44b7f300-a78f-11eb-80c6-c8eba8a604d9.PNG", width="200px"><br>
 > ### 연산<br>
 > > 1. 삽입 연산<br>
 > > > void push(int e); // 스택에 요소 추가<br>

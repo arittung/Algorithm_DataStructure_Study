@@ -120,7 +120,7 @@
 > > > : O(1) - 다만 조회 연산이 느림.<br>
 
 > ### 연산 <br>
-> > <img src="https://user-images.githubusercontent.com/53934639/116815131-17a47f80-ab97-11eb-8ea2-ff1e00227e5f.PNG" width="400px">
-> > <img src="https://user-images.githubusercontent.com/53934639/116815135-1b380680-ab97-11eb-8f4c-358fda297b27.PNG" width="400px"><br>
+> > <img src="https://user-images.githubusercontent.com/53934639/116815131-17a47f80-ab97-11eb-8ea2-ff1e00227e5f.PNG" width="250px">
+> > <img src="https://user-images.githubusercontent.com/53934639/116815135-1b380680-ab97-11eb-8f4c-358fda297b27.PNG" width="250px"><br>
 > > 1. 삽입 연산<br>
 > > 2. 삭제 연산

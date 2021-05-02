@@ -101,13 +101,12 @@
 > - 순서를 가진 데이터들의 모임 <br>
 > <img src="https://user-images.githubusercontent.com/53934639/116814620-d612d500-ab94-11eb-8795-41966bfdf747.PNG" width="400px"><br>
 > ### 연결리스트와 리스트의 차이 <br>
-> > 리스트 <br>
+> > 1. 리스트 <br>
 > > > - 특정한 "자료구조"를 의미<br>
 > > > - Abstract Data Type(ADT) - 실제 구현은 다양하게 할 수 있음 (ex. 스택, 큐, 리스트..)<br>
-> > 연결리스트 <br>
+> > 2. 연결리스트 <br>
 > > > - 실제 구현된 구현체<br>
 > > > - 포인터와 데이터로 구성된 노드를 이용한 구현(Implementation) (ex. 배열, 연결리스트..)<br>
-> > > 
 > ### 구현 방법 <br>
 > <img src="https://user-images.githubusercontent.com/53934639/116814870-cb0c7480-ab95-11eb-99ad-e475bec4c426.PNG" width="400px"><br>
 > > 1. 배열 이용 <br>

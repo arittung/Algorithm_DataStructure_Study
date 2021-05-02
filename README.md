@@ -58,7 +58,7 @@
 
 
 ## Queue <br>
-> - 가장 먼저 들어온 데이터가 가장 먼저 나가는 <br>
+> - 가장 먼저 들어온 데이터가 가장 먼저 나가는 자료형 <br>
 > - 선입 선출(FIFO) <br>
 > <img src="https://user-images.githubusercontent.com/53934639/116229189-28b55100-a791-11eb-8478-869af6402119.PNG" width="400px"><br><br>
 > ### 선형 큐 <br>
@@ -95,4 +95,44 @@
 > > > - bool isFull();  // 큐가 꽉 찼는지 확인<br>
 > > > - int getFront(); // 맨 앞의 데이터 리턴<br>
 > > > - int getRear();  // 맨 뒤 요소를 삭제하지 않고 리턴<br>
+<br><br><br><br>
+
+## List<br>
+> - 순서를 가진 데이터들의 모임 <br>
+> <img src="https://user-images.githubusercontent.com/53934639/116814620-d612d500-ab94-11eb-8795-41966bfdf747.PNG" width="400px"><br>
+> ### 연결리스트와 리스트의 차이 <br>
+> > 1. 리스트 <br>
+> > > - 특정한 "자료구조"를 의미<br>
+> > > - Abstract Data Type(ADT) - 실제 구현은 다양하게 할 수 있음 (ex. 스택, 큐, 리스트..)<br>
+> > 2. 연결리스트 <br>
+> > > - 실제 구현된 구현체<br>
+> > > - 포인터와 데이터로 구성된 노드를 이용한 구현(Implementation) (ex. 배열, 연결리스트..)<br>
+> ### 구현 방법 <br>
+> <img src="https://user-images.githubusercontent.com/53934639/116814870-cb0c7480-ab95-11eb-99ad-e475bec4c426.PNG" width="400px"><br>
+> > 1. 배열 이용 <br>
+> > > - 구현 간단, 삽입과 삭제 시 오버헤드, 항목의 수가 제한됨 <br>
+> > > - 공백과 포화 상태가 존재<br>
+> > > - 삽입, 삭제 위치 다음의 항목들을 이동 - O(N): 평균적으로 N/2개의 항목을 이동해야 함.<br>
+> > 2. 연결리스트 이용 <br>
+> > > - 구현이 복잡, 삽입과 삭제가 효율적이고 크기의 제한이 없음, 조회가 느림 <br>
+> > > - O(1) - 다만 조회 연산이 느림.<br>
+
+> ### 연산 <br>
+> <img src="https://user-images.githubusercontent.com/53934639/116816129-a915f080-ab9b-11eb-9d28-86519649a723.PNG" width="400px"><br>
+>  1. 배열 통해 리스트 구현<br>
+> > - Array_List.cpp<br>
+> > - DArray_List.cpp : 가변 길이 리스트(동적할당)<br>
+> > <img src="https://user-images.githubusercontent.com/53934639/116815131-17a47f80-ab97-11eb-8ea2-ff1e00227e5f.PNG" width="250px" height="250px">
+> > <img src="https://user-images.githubusercontent.com/53934639/116815135-1b380680-ab97-11eb-8f4c-358fda297b27.PNG" width="250px" height = "250px"><br>
+>  2. 연결리스트 통해 리스트 구현<br>
+> > - Linkedlist_List.cpp<br>
+> >  <img src ="https://user-images.githubusercontent.com/53934639/116816131-ad420e00-ab9b-11eb-8bdc-a692ae078771.PNG" width="450px" height="250px">
+> > <img src ="https://user-images.githubusercontent.com/53934639/116816133-afa46800-ab9b-11eb-816e-67b68d82fa20.PNG" width="250px" height="250px"><br>
+> >  
+> >  - 헤드 노드란..?<br>
+> >  : 포인터 변수 head가 아닌 node 객체인 head를 사용<br>
+> >  : 가상의 노드 head가 앞에 추가로 존재<br>
+> >  : 맨 앞 노드의 삽입이나 삭제 연산을 단순화 할 수 있음<br>
+> >  <img src="https://user-images.githubusercontent.com/53934639/116816234-08740080-ab9c-11eb-9116-e58ca9b4dca8.PNG" width="400px"><br>
+> >  <img src="https://user-images.githubusercontent.com/53934639/116816244-11fd6880-ab9c-11eb-9a9a-6f8fe9a37e7d.PNG" width="400px"><br>
 <br><br><br><br>

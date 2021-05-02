@@ -125,8 +125,8 @@
 > > > <img src="https://user-images.githubusercontent.com/53934639/116815135-1b380680-ab97-11eb-8f4c-358fda297b27.PNG" width="250px" height = "250px"><br>
 > > 2. 연결리스트 통해 리스트 구현<br>
 > > > - Linkedlist_List.cpp<br>
-> > > <img src ="https://user-images.githubusercontent.com/53934639/116816131-ad420e00-ab9b-11eb-8bdc-a692ae078771.PNG" width="400px">
-> > > <img src ="https://user-images.githubusercontent.com/53934639/116816133-afa46800-ab9b-11eb-816e-67b68d82fa20.PNG" width="400px"><br>
+> > > <img src ="https://user-images.githubusercontent.com/53934639/116816131-ad420e00-ab9b-11eb-8bdc-a692ae078771.PNG" width="250px" height="250px">
+> > > <img src ="https://user-images.githubusercontent.com/53934639/116816133-afa46800-ab9b-11eb-816e-67b68d82fa20.PNG" width="250px" height="250px"><br>
 > > > - 헤드 노드란..?<br>
 > > > > : 포인터 변수 head가 아닌 node 객체인 head를 사용<br>
 > > > > : 가상의 노드 head가 앞에 추가로 존재<br>

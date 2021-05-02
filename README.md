@@ -121,7 +121,7 @@
 > <img src="https://user-images.githubusercontent.com/53934639/116816129-a915f080-ab9b-11eb-9d28-86519649a723.PNG" width="400px"><br>
 >  1. 배열 통해 리스트 구현<br>
 > > - Array_List.cpp<br>
-> > - DArra_List.cpp : 가변 길이 리스트(동적할당)<br>
+> > - DArray_List.cpp : 가변 길이 리스트(동적할당)<br>
 > > <img src="https://user-images.githubusercontent.com/53934639/116815131-17a47f80-ab97-11eb-8ea2-ff1e00227e5f.PNG" width="250px" height="250px">
 > > <img src="https://user-images.githubusercontent.com/53934639/116815135-1b380680-ab97-11eb-8f4c-358fda297b27.PNG" width="250px" height = "250px"><br>
 >  2. 연결리스트 통해 리스트 구현<br>

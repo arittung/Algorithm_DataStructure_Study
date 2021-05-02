@@ -121,16 +121,16 @@
 > <img src="https://user-images.githubusercontent.com/53934639/116816129-a915f080-ab9b-11eb-9d28-86519649a723.PNG" width="400px"><br>
 > > 1. 배열 통해 리스트 구현<br>
 > > > - Array_List.cpp<br>
-> > > <img src="https://user-images.githubusercontent.com/53934639/116815131-17a47f80-ab97-11eb-8ea2-ff1e00227e5f.PNG" width="350px" height="250px">
+> > > <img src="https://user-images.githubusercontent.com/53934639/116815131-17a47f80-ab97-11eb-8ea2-ff1e00227e5f.PNG" width="400px" height="250px">
 > > > <img src="https://user-images.githubusercontent.com/53934639/116815135-1b380680-ab97-11eb-8f4c-358fda297b27.PNG" width="250px" height = "250px"><br>
 > > 2. 연결리스트 통해 리스트 구현<br>
 > > > - Linkedlist_List.cpp<br>
 > > > <img src ="https://user-images.githubusercontent.com/53934639/116816131-ad420e00-ab9b-11eb-8bdc-a692ae078771.PNG" width="250px" height="250px">
 > > > <img src ="https://user-images.githubusercontent.com/53934639/116816133-afa46800-ab9b-11eb-816e-67b68d82fa20.PNG" width="250px" height="250px"><br>
 > > > - 헤드 노드란..?<br>
-> > > > : 포인터 변수 head가 아닌 node 객체인 head를 사용<br>
-> > > > : 가상의 노드 head가 앞에 추가로 존재<br>
-> > > > : 맨 앞 노드의 삽입이나 삭제 연산을 단순화 할 수 있음<br>
+> > > > - 포인터 변수 head가 아닌 node 객체인 head를 사용<br>
+> > > > - 가상의 노드 head가 앞에 추가로 존재<br>
+> > > > - 맨 앞 노드의 삽입이나 삭제 연산을 단순화 할 수 있음<br>
 > > > > <img src="https://user-images.githubusercontent.com/53934639/116816234-08740080-ab9c-11eb-9116-e58ca9b4dca8.PNG" width="400px"><br>
 > > > > <img src="https://user-images.githubusercontent.com/53934639/116816244-11fd6880-ab9c-11eb-9a9a-6f8fe9a37e7d.PNG" width="400px"><br>
 <br><br><br><br>

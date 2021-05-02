@@ -97,7 +97,6 @@
 > > > - int getRear();  // 맨 뒤 요소를 삭제하지 않고 리턴<br>
 <br><br><br><br>
 
-
 ## List<br>
 > - 순서를 가진 데이터들의 모임 <br>
 > <img src="https://user-images.githubusercontent.com/53934639/116814620-d612d500-ab94-11eb-8795-41966bfdf747.PNG" width="400px"><br>

@@ -93,7 +93,7 @@
 
 ### 03-2. 원형 큐 <br>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbxYKyl%2Fbtq2NdjvNAk%2F67qIyyADkTzqGHenQagcVk%2Fimg.png" width="700px"><br>
-&<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbD3xhh%2Fbtq2MzUGuNA%2FjkJKZlmUVXFqICJHeclEp0%2Fimg.png" width="700px"><br><br>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbD3xhh%2Fbtq2MzUGuNA%2FjkJKZlmUVXFqICJHeclEp0%2Fimg.png" width="700px"><br><br>
 <br>
 
 ### 03-3. 연산<br>

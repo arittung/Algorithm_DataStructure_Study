@@ -1,5 +1,14 @@
 # 자료구조<br><br>
 
+## 목차
+- [1. linked List](#linked-List)
+- [2. Stack](#Stack)
+- [3. Queue](#Queue)
+- [4. Deque](#Deque)
+- [5. List](#List)
+ <br><br>
+ ---
+ 
 ## linked List<br>
 > ### 구조<br>
 > > 1. 노드<br>

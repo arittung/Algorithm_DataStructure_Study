@@ -1,11 +1,11 @@
 # 자료구조<br><br>
 
 ## 목차
-- [1. linked List](#linked-List)
-- [2. Stack](#Stack)
-- [3. Queue](#Queue)
-- [4. Deque](#Deque)
-- [5. List](#List)
+- [1. linked List](#linked-list)
+- [2. Stack](#stack)
+- [3. Queue](#queue-)
+- [4. Deque](#deque-)
+- [5. List](#list)
  <br><br>
  ---
  

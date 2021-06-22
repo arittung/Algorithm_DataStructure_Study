@@ -15,11 +15,11 @@
 
 ### 01-1. 구조<br>
 1. 노드<br>
-> <img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA1MDdfMTEg/MDAxNTU3MjA0OTUwMDA1.DSJlwlTNm2iXdPUkzSrIkz58Q-6C2WKfFi0Tq7KlZVwg.uGAPoVzrcjQv58CzjdZ0Fz1u0BWZoA0rOWT6YUQ2Hacg.PNG.std_34/image.png?type=w800" width="500px"><br>
+> <img src="https://images.velog.io/images/arittung/post/c6e5b8b9-52cc-4aae-b7f5-473124db5c3b/image.png" width="350px"><br>
 2. 포인터
 > - 헤드 포인터(Head) : 리스트의 첫 번째 노드<br>
 > - 테일 포인터(Tail) : 리스트의 마지막 노드<br>
-> <img src="https://media.vlpt.us/images/sangh00n/post/bfa73611-96a7-450a-9974-4b40fb70c2fd/linkedLIst.png" width="500px">
+> <img src="https://images.velog.io/images/arittung/post/27e1c543-3bdf-4762-8db5-145765a55b15/image.png" width="500px">
 
 <br>
 
@@ -34,7 +34,7 @@
 1. 단순(단방향) 연결 리스트(singly linked list)<br>
 2. 원형 연결 리스트(circular linked list)<br>
 3. 이중 연결 리스트(double linked list)<br>
-<img src="https://mblogthumb-phinf.pstatic.net/MjAxOTA1MDdfMTc4/MDAxNTU3MjA2NzUwNTA2.zFSk59o7XoiUEv20e73r1Qh0csm7PfHL2zgpK0B9NZEg.vDG82wpGHzBLaRyrSP41E6EVIjjdzsszeoWY8mIBOqAg.PNG.std_34/image.png?type=w800" width="500px"><br>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fba3zRZ%2Fbtq2Mz8CDoL%2FwNmI6SzXTZhPko7X7zBALK%2Fimg.png" width="500px"><br>
 
 
 <br>
@@ -62,7 +62,7 @@
 - 가장 나중에 들어온 데이터가 가장 먼저 나가는 자료형<br>
 - 후입 선출(LIFO)<br><br>
 
-<img src="https://cdn.codingworldnews.com/news/photo/202104/img_3407_1.png" height="300px">
+<img src="https://images.velog.io/images/arittung/post/4e8ea483-3a6e-4901-89e1-1fdced02d0e5/image.png" height="300px">
 
 <br>
 
@@ -82,7 +82,7 @@
 ## 03. Queue <br>
 - 가장 먼저 들어온 데이터가 가장 먼저 나가는 자료형 <br>
 - 선입 선출(FIFO) <br>
-<img src="https://cdn.codingworldnews.com/news/photo/202104/img_3407_2.png" width="400px"><br><br>
+<img src="https://images.velog.io/images/arittung/post/ab617f22-9fcd-43d1-9914-68781a890158/image.png" width="500px"><br><br>
 <br>
 
 ### 03-1. 선형 큐 <br>
@@ -180,7 +180,5 @@
 <br><br><br><br>
 ------------
  ## 이미지 출처
- - https://m.blog.naver.com/std_34/221532135313
- - https://velog.io/@sangh00n/%EB%A6%AC%EC%8A%A4%ED%8A%B8List%EC%9D%98-%EC%9D%B4%ED%95%B4-%EB%A7%81%ED%81%AC%EB%93%9C%EB%A6%AC%EC%8A%A4%ED%8A%B8
- - http://www.codingworldnews.com/news/articleView.html?idxno=3407
  - https://yjg-lab.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0
+ - https://www.flaticon.com/kr/

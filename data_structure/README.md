@@ -1,5 +1,9 @@
 # 자료구조<br><br>
 
+> 자세한 설명은 아래 링크 참조<br>
+> https://velog.io/@arittung/series/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0
+<br>
+
 ## 목차
 - [1. linked List](#01-linked-list)
 - [2. Stack](#02-stack)

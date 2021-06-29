@@ -23,12 +23,12 @@
 <br><br>
   
 ## Sort Algorithm  
-- [Bubble Sort (버블 정렬)](./Sort%20%Algorithm/Bubble_Sort.cpp)  
-- [Insertion Sort (삽입 정렬)](./Sort%20%Algorithm/Insertion_Sort.cpp)
-- [Merge Sort (병합 정렬)](./Sort%20%Algorithm/Merge_Sort.cpp)
-- [Quick Sort (퀵 정렬)](./Sort%20%Algorithm/Quick_Sort.cpp)
-- [Selection Sort (선택 정렬)](./Sort%20%Algorithm/Selection_Sort.cpp)
-- [Shell Sort (쉘 정렬)](./Sort%20%Algorithm/Shell_Sort.cpp)
+- [Bubble Sort (버블 정렬)](./Sort%20Algorithm/Bubble_Sort.cpp)  
+- [Insertion Sort (삽입 정렬)](./Sort%20Algorithm/Insertion_Sort.cpp)
+- [Merge Sort (병합 정렬)](./Sort%20Algorithm/Merge_Sort.cpp)
+- [Quick Sort (퀵 정렬)](./Sort%20Algorithm/Quick_Sort.cpp)
+- [Selection Sort (선택 정렬)](./Sort%20Algorithm/Selection_Sort.cpp)
+- [Shell Sort (쉘 정렬)](./Sort%20Algorithm/Shell_Sort.cpp)
   <br> <br>
 https://velog.io/@arittung/Sorting-Algorithm 
   

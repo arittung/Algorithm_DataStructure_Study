@@ -1,8 +1,5 @@
 # 알고리즘
 
-https://velog.io/@arittung/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
-
-위 링크에 작성된 내용에 기반한 코드.
 
 <br><br><Br>
 

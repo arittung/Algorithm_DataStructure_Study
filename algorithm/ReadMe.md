@@ -1,7 +1,6 @@
 # 알고리즘
 
-
-<br><br><Br>
+<Br><Br>
 
 ## 목차
 - [재귀 알고리즘](#Recursive-Call-Algorithm)

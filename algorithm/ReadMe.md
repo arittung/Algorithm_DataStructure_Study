@@ -1,10 +1,11 @@
 # 알고리즘
 
-<Br><Br>
+<Br>
 
 ## 목차
-- [재귀 알고리즘](#Recursive-Call-Algorithm)
-- [정렬 알고리즘](#sort-algorithm)
+- [1. 재귀 알고리즘](#Recursive-Call-Algorithm)
+- [2. 정렬 알고리즘](#sort-algorithm)
+- [3. 탐색 알고리즘](#searching-algorithm)
 
 <Br>
 
@@ -12,24 +13,48 @@
   
 <br><br>
   
-## Recursive Call Algorithm
+## 1. Recursive Call Algorithm
 - [Fibonacci (피보나치 수열)](./Recursive%20Call%20Algorithm/fibonacci.cpp)
 - [Factorial (팩토리얼)](./Recursive%20Call%20Algorithm/factorial.cpp)
 - [Euclid (유클리드 알고리즘)](./Recursive%20Call%20Algorithm/euclid.cpp)
 - [Maximum value (최대값 찾기)](./Recursive%20Call%20Algorithm/find_max.cpp)
 - [Sum (합)](./Recursive%20Call%20Algorithm/sum.cpp)
-   <br> <br>
-  https://velog.io/@arittung/Recursive-Call-Algorithm
+  
+<br>
+
+  ---
+  
+#### https://velog.io/@arittung/Recursive-Call-Algorithm
 <br><br>
   
-## Sort Algorithm  
+## 2. Sort Algorithm  
 - [Bubble Sort (버블 정렬)](./Sort%20Algorithm/Bubble_Sort.cpp)  
 - [Insertion Sort (삽입 정렬)](./Sort%20Algorithm/Insertion_Sort.cpp)
 - [Merge Sort (병합 정렬)](./Sort%20Algorithm/Merge_Sort.cpp)
 - [Quick Sort (퀵 정렬)](./Sort%20Algorithm/Quick_Sort.cpp)
 - [Selection Sort (선택 정렬)](./Sort%20Algorithm/Selection_Sort.cpp)
 - [Shell Sort (쉘 정렬)](./Sort%20Algorithm/Shell_Sort.cpp)
-  <br> <br>
-https://velog.io/@arittung/Sorting-Algorithm 
+  
+  <br>
+ ---
+  
+#### https://velog.io/@arittung/Sorting-Algorithm 
   
 <br><br>
+  
+  
+## 3. Searcing Algorithm  
+- [Linear Search (선형 탐색)](./Searching%20Algorithm/Linear_Search.cpp)  
+- [Binary Search (이진 탐색)](./Searching%20Algorithm/Binary_Search.cpp)  
+  
+<br>
+
+  ---
+  
+#### https://velog.io/@arittung/Searching-Algorithm
+ 
+  
+  
+  <br> <br> <br>
+  
+

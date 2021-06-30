@@ -3,9 +3,9 @@
 <Br>
 
 ## 목차
-- [1. 재귀 알고리즘](#Recursive-Call-Algorithm)
-- [2. 정렬 알고리즘](#sort-algorithm)
-- [3. 탐색 알고리즘](#searching-algorithm)
+- [1. 재귀 알고리즘](#1-Recursive-Call-Algorithm)
+- [2. 정렬 알고리즘](#2-sort-algorithm)
+- [3. 탐색 알고리즘](#3-searching-algorithm)
 
 <Br>
 
@@ -44,9 +44,10 @@
   
   
 ## 3. Searcing Algorithm  
-- [Linear Search (선형 탐색)](./Searching%20Algorithm/Linear_Search.cpp)  
-- [Binary Search (이진 탐색)](./Searching%20Algorithm/Binary_Search.cpp)  
-  
+- [Linear Search (선형 탐색)](./Searching%20Algorithm/Linear_Search.cpp)
+- [Binary Search Iterative (이진 탐색)](./Searching%20Algorithm/Binary_Search_Iterative.cpp)  
+- [Binary Search Recursive (이진 탐색)](./Searching%20Algorithm/Binary_Search_Recursive.cpp)
+
 <br>
 
   ---

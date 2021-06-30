@@ -21,7 +21,7 @@ int main() {
 
 	BubbleSort(arr, sizeof(arr) / sizeof(int));
 
-	// °á°ú È®ÀÎ
+	// ê²°ê³¼ í™•ì¸
 	for (int i = 0; i < sizeof(arr) / sizeof(int); i++) {
 		cout << arr[i] << " ";
 	}

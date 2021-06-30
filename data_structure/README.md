@@ -1,7 +1,5 @@
 # 자료구조<br><br>
 
-> 자세한 설명은 아래 링크 참조<br>
-> https://velog.io/@arittung/series/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0
 <br>
 
 ## 목차
@@ -11,7 +9,8 @@
 - [4. Deque](#04-deque-)
 - [5. List](#05-list)
 - [이미지 출처](#이미지-출처)
- <br><br>
+ <br>
+ 
  ---
  <br><br>
  
@@ -36,8 +35,14 @@
 - int size(); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  *// 연결리스트의 총 길이를 리턴* <br>
 - void display_contents();  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  *// 연결리스트의 현재 구조를 보여줌* <br>
 - int search_value(int n);  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  *// 연결리스트에서 원하는 값을 찾아서 그 값의 인덱스를 리턴* <br>
+  
+<br>
 
-<br><br>
+  ---
+  
+#### https://velog.io/@arittung/datastructure01Linked-List
+
+<br><br><br>
 
 ## 02. Stack<br>
 
@@ -50,7 +55,14 @@
 - bool isFull();  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  *// 스택이 가득 차있는지 확인* <br>
 - int peek(); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  *// 맨 위의 요소 출력* <br>
 
-<br><br>
+  
+<br>
+
+  ---
+  
+#### https://velog.io/@arittung/datastructure02.Stack
+
+<br><br><br>
 
 ## 03. Queue <br>
 
@@ -64,7 +76,15 @@
 - bool isFull(); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  *// 큐가 꽉 찼는지 확인* <br>
 - int peek(); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  *// 맨 앞의 데이터 리턴* <br>
 
-<br><br>
+  
+<br>
+
+  ---
+  
+#### https://velog.io/@arittung/datastructure03.Queue
+
+<br><br><br>
+
 
 
 ## 04. Deque <br>
@@ -81,7 +101,14 @@
 - int getFront(); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  *// 맨 앞의 데이터 리턴* <br>
 - int getRear();  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  *// 맨 뒤 요소를 삭제하지 않고 리턴* <br>
 
-<br><br>
+  
+<br>
+
+  ---
+  
+#### https://velog.io/@arittung/datastructure04.Deque
+
+<br><br><br>
 
 ## 05. List<br>
 
@@ -107,10 +134,23 @@
   : 맨 앞 노드의 삽입이나 삭제 연산을 단순화 할 수 있음<br>
  <img src="https://user-images.githubusercontent.com/53934639/122798469-98f8d280-d2fb-11eb-9a26-17eb2536a4b9.png" width="500px"><br>
 
- 
- 
+   
+<br>
+
+  ---
+  
+#### https://velog.io/@arittung/datastructure05.List
+
+<br><br><br>
+
+
+
+
+
+
+
 <br><br>
-------------
+
  ## 이미지 출처
  - https://yjg-lab.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%80/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0
  - https://www.flaticon.com/kr/

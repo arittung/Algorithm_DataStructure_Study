@@ -26,7 +26,7 @@ int main() {
 
 	SelectionSort(arr);
 
-	// 
+	// 결과확인
 	for (int i = 0; i < arr.size(); i++) {
 		cout << arr[i] << " ";
 	}

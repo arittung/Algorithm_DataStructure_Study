@@ -24,7 +24,7 @@
 
   ---
   
-#### https://velog.io/@arittung/Recursive-Call-Algorithm
+#### [arittung.log - Recursive Call Algorithm](https://velog.io/@arittung/Recursive-Call-Algorithm)
 <br><br>
   
 ## 2. Sort Algorithm  
@@ -38,7 +38,7 @@
   <br>
  ---
   
-#### https://velog.io/@arittung/Sorting-Algorithm 
+#### [arittung.log - Sorting Algorithm](https://velog.io/@arittung/Sorting-Algorithm )
   
 <br><br>
   
@@ -52,7 +52,7 @@
 
   ---
   
-#### https://velog.io/@arittung/Searching-Algorithm
+#### [arittung.log - Searching Algorithm](https://velog.io/@arittung/Searching-Algorithm)
  
   
   

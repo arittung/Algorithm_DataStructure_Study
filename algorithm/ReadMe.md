@@ -43,7 +43,7 @@
 <br><br>
   
   
-## 3. Searcing Algorithm  
+## 3. Searching Algorithm  
 - [Linear Search (선형 탐색)](./Searching%20Algorithm/Linear_Search.cpp)
 - [Binary Search Iterative (이진 탐색)](./Searching%20Algorithm/Binary_Search_Iterative.cpp)  
 - [Binary Search Recursive (이진 탐색)](./Searching%20Algorithm/Binary_Search_Recursive.cpp)

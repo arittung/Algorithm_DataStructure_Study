@@ -40,7 +40,7 @@
 
   ---
   
-#### https://velog.io/@arittung/datastructure01Linked-List
+#### [arittung.log - Linked List](https://velog.io/@arittung/datastructure01Linked-List)
 
 <br><br><br>
 
@@ -60,7 +60,7 @@
 
   ---
   
-#### https://velog.io/@arittung/datastructure02.Stack
+#### [arittung.log - Stack](https://velog.io/@arittung/datastructure02.Stack)
 
 <br><br><br>
 
@@ -81,7 +81,7 @@
 
   ---
   
-#### https://velog.io/@arittung/datastructure03.Queue
+#### [arittung.log - Queue](https://velog.io/@arittung/datastructure03.Queue)
 
 <br><br><br>
 
@@ -106,7 +106,7 @@
 
   ---
   
-#### https://velog.io/@arittung/datastructure04.Deque
+#### [arittung.log - Deque](https://velog.io/@arittung/datastructure04.Deque)
 
 <br><br><br>
 
@@ -139,7 +139,7 @@
 
   ---
   
-#### https://velog.io/@arittung/datastructure05.List
+#### [arittung.log - List](https://velog.io/@arittung/datastructure05.List)
 
 <br><br><br>
 

@@ -113,36 +113,27 @@
 ## 05. List<br>
 
 #### 05-1. 배열 통해 리스트 구현<br>
-- Array_List.cpp<br>
-- DArray_List.cpp : 가변 길이 리스트(동적할당)<br>
-<div>
-<img src="https://user-images.githubusercontent.com/53934639/122797952-ffc9bc00-d2fa-11eb-86e4-adc935654e68.png" width="300px" float="left">
-<img src="https://user-images.githubusercontent.com/53934639/122797877-e7f23800-d2fa-11eb-9b3e-a0690e81bde0.png" width="300px" float="right"></div>
+- [Array_List.cpp](https://github.com/arittung/Algorithm_DataStructure_Study/blob/main/data_structure/List/Array_List.cpp)<br>
+- [DArray_List.cpp](https://github.com/arittung/Algorithm_DataStructure_Study/blob/main/data_structure/List/DArray_List.cpp) 
+: 가변 길이 리스트(동적할당)<br>
+
+<img src="https://user-images.githubusercontent.com/53934639/126075604-37d798b8-f592-499e-8888-11b3ba0979db.png" width="450px" float="left">
+
 <br>
 
 #### 05-2. 연결리스트 통해 리스트 구현<br>
-- Linkedlist_List.cpp<br>
-<div>
-<img src="https://user-images.githubusercontent.com/53934639/122798296-5fc06280-d2fb-11eb-9576-53a4162bef6a.png" width="400px" float="left">
-<img src="https://user-images.githubusercontent.com/53934639/122798352-74045f80-d2fb-11eb-93b0-3e896a5bad43.png" width="250px" float ="right"></div>
+- [Linkedlist_List.cpp](https://github.com/arittung/Algorithm_DataStructure_Study/blob/main/data_structure/List/Linkedlist_List.cpp)<br>
+
+<img src="https://user-images.githubusercontent.com/53934639/126075637-f3b9b5c0-f31b-4298-9b56-27d77823941b.png" width="500px" float="left">
+
 <br>
 
- 
-#### 헤드 노드란..?<br>
-  : 포인터 변수 head가 아닌 node 객체인 head를 사용<br>
-  : 가상의 노드 head가 앞에 추가로 존재<br>
-  : 맨 앞 노드의 삽입이나 삭제 연산을 단순화 할 수 있음<br>
- <img src="https://user-images.githubusercontent.com/53934639/122798469-98f8d280-d2fb-11eb-9a26-17eb2536a4b9.png" width="500px"><br>
-
-   
-<br>
 
   ---
   
 #### [arittung.log - List](https://velog.io/@arittung/datastructure05.List)
 
 <br><br><br>
-
 
 
 
